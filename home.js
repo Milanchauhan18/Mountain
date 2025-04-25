@@ -1,0 +1,4 @@
+function readme()
+{
+    alert("Hello");
+}
